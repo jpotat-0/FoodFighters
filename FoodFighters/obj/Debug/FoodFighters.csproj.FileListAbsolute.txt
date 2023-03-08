@@ -1,0 +1,7 @@
+C:\Users\24chang288\source\repos\Sandwiches\bin\Debug\Sandwiches.exe.config
+C:\Users\24chang288\source\repos\Sandwiches\bin\Debug\Sandwiches.exe
+C:\Users\24chang288\source\repos\Sandwiches\bin\Debug\Sandwiches.pdb
+C:\Users\24chang288\source\repos\Sandwiches\obj\Debug\FoodFighters.csproj.AssemblyReference.cache
+C:\Users\24chang288\source\repos\Sandwiches\obj\Debug\FoodFighters.csproj.CoreCompileInputs.cache
+C:\Users\24chang288\source\repos\Sandwiches\obj\Debug\Sandwiches.exe
+C:\Users\24chang288\source\repos\Sandwiches\obj\Debug\Sandwiches.pdb
